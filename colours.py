@@ -1,4 +1,5 @@
 red = '\033[91m'
+red_dark = '\033[31m'
 green = '\033[92m'
 blue = '\033[94m'
 yellow = '\033[93m'
